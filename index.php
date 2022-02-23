@@ -84,6 +84,14 @@
                 vous aider dans la préparation de votre séjour, 
                 circuit ou voyage sur mesure.
            </p>
+            <p>
+                Chez Travel Agency nous savons que voyager est une aventure humaine mais 
+                également un engagement financier important pour vous.
+                C'est pourquoi nous mettons un point d'honneur à
+                prendre en compte chacune de vos attentes pour 
+                vous aider dans la préparation de votre séjour, 
+                circuit ou voyage sur mesure.
+           </p>
            <form >
                 <label for="name">Nom</label>
                 <input type="text" id="name" placeholder="votre nom">
