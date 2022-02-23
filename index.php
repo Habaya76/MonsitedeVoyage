@@ -12,7 +12,7 @@
 <body>
    <header>
        <div class="wrapper">
-        <h1>Agence de Voyage<span class="point">.</span></h1>
+        <h1>Noumou Voyage<span class="point">.</span></h1>
             <nav>
                 <ul>
                     <li><a href="#main_image">Accueil</a></li>
@@ -100,7 +100,7 @@
 
    <footer>
        <div class="wrapper">
-        <h1>Agence de Voyage<span class="point">.</span></h1>
+        <h1>Noumou Voyage<span class="point">.</span></h1>
         <div class="copyright">Copyright @ 2016. Tous droit reservés</div>
 
        </div>
